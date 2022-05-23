@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Spring_2022_Selenium1.iml" filepath="$PROJECT_DIR$/Spring_2022_Selenium1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring_2022_Selenium1.iml" filepath="$PROJECT_DIR$/../Spring_2022_Selenium1.iml" />
     </modules>
   </component>
 </project>
